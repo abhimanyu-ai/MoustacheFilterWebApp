@@ -3,5 +3,6 @@ h3
   font-size: 25px !important;
 }
 canvas {
-  border:2px solid black;
+  border:5px solid brown;
+  margin-top: 80px;
 }
